@@ -8,7 +8,7 @@
   *  This may or may not implement all of the functionality of the
   *  original, static facade, so use with caution. 
   *
-  *  See license.txt for licensing details and example.php for a demonstration.
+  *  See license.txt for licensing details.
   *
   *  @author Marko Tukiainen
   *  @version 3.4.5
