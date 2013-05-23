@@ -1,5 +1,8 @@
 RedBeanPHP: Dynamic Facade
 Written by Marko Tukiainen (c) 2013
+
+RedBeanPHP
+Written by Gabor de Mooij (c) copyright 2009-2013
 RedBeanPHP and the Dynamic Facade are DUAL Licensed New BSD and GPLv2. You may choose the license that fits
 best for your project.
 
