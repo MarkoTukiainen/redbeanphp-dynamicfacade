@@ -1264,6 +1264,11 @@ class CustomBeanHelper implements RedBean_IBeanHelper {
     
     //return $bean->getMeta('model');
   }      
+
+	public function getExtractedToolbox() {
+		$toolbox = $this->getToolbox();
+		return array($toolbox->getRedBean(), $toolbox->getDatabaseAdapter(), $toolbox->getWriter(), $toolbox);
+	}
 }
 
 class CustomModelHelper implements \RedBean_Observer {
