@@ -524,7 +524,7 @@ class Database {
 	 * @return array $beans  beans
 	 */
 	public function findAll($type, $sql = null, $values = array()) {
-		return $this->finder->findAll($type, $sql, $values);
+		return $this->finder->find($type, $sql, $values);
 	}
 
 	/**
